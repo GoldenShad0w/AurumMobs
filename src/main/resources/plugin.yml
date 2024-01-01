@@ -1,0 +1,6 @@
+name: AurumMobs
+version: '${project.version}'
+main: goldenshadow.aurummobs.AurumMobs
+api-version: '1.20'
+authors: [_GoldenShadow]
+description: Create and summon custom mobs with ease
